@@ -24,9 +24,9 @@ Please provide the following:
 - An indication of why your team is interested in creating this project.
 
 Presently, NFT marketplaces are limited in their convenience and security. Many marketplaces opt for convenience 
-by storing their users' private and public keys to provide one-click solutions to buyin and minting NFTs.
+by storing their users' private and public keys to provide one-click solutions to buying and minting NFTs.
 Our platform aims to resolve this compromise between convenience and security by introducing TEEs as a secure means of verifying and signing transactions. 
-Users will be able to verify trnasactions by using a custom credentials, via end-to-end encryption, which will be linked to their public private key pair which will be used by the hardware TEE. The TEE will then verify and sign the trnasaction on behalf of the user, return the receipt without any intervention by any external party (including the organisation operating the marketplace).
+Users will be able to verify transactions by using a custom credentials, via end-to-end encryption, which will be linked to their public private key pair which will be used by the hardware TEE. The TEE will then verify and sign the transaction on behalf of the user, return the receipt without any intervention by any external party (including the organisation operating the marketplace).
 
 ### Project Details
 
