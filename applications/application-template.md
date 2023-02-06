@@ -1,4 +1,4 @@
-# NFT As A servass
+# NFT Servesus
 
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines (except for the title)! Lines starting with a `>` (such as this one) should be removed. Please use markdown instead of HTML (e.g. `![](image.png)` instead of `<img>`). 
 >
@@ -22,6 +22,11 @@ Please provide the following:
 - A brief description of your project.
 - An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
 - An indication of why your team is interested in creating this project.
+
+Presently, NFT marketplaces are limited in their convenience and security. Many marketplaces opt for convenience 
+by storing their users' private and public keys to provide one-click solutions to buyin and minting NFTs.
+Our platform aims to resolve this compromise between convenience and security by introducing TEEs as a secure means of verifying and signing transactions. 
+Users will be able to verify trnasactions by using a custom credentials, via end-to-end encryption, which will be linked to their public private key pair which will be used by the hardware TEE. The TEE will then verify and sign the trnasaction on behalf of the user, return the receipt without any intervention by any external party (including the organisation operating the marketplace).
 
 ### Project Details
 
